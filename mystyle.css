@@ -209,8 +209,8 @@
 .nenglizhi{
     width: 100px;
     position: absolute;
-    top: 200;
-    bottom: ;
+    top: 200px;
+    bottom: 0;
     left: 0;
     right: 750px;
     margin: auto;
@@ -273,7 +273,6 @@
     width: 1200px;
     height: auto;
     float: left;
-    background-color: salmon;
     position: relative;
     top: 50px;
 }
@@ -281,7 +280,6 @@
     width: auto;
     height: 600px;
     float: left;
-    background-color: salmon;
     position: relative;
     top: 80px;
 }
@@ -289,7 +287,6 @@
     width: auto;
     height: 600px;
     float: right;
-    background-color: salmon;
     position: relative;
     top: 80px;
 }
@@ -297,7 +294,6 @@
     width: 1200px;
     height: auto;
     float: left;
-    background-color: salmon;
     position: relative;
     top: 110px;
 }
@@ -305,7 +301,6 @@
     width: 380px;
     height: auto;
     float: left;
-    background-color: salmon;
     position: relative;
     top: 140px;
 }
@@ -313,7 +308,6 @@
     width: 380px;
     height: auto;
     float: left;
-    background-color: salmon;
     position: relative;
     top: 140px;
     left: 30px;
@@ -322,7 +316,6 @@
     width: 380px;
     height: auto;
     float: right;
-    background-color: salmon;
     position: relative;
     top: 140px;
 }
