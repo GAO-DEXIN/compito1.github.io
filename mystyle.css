@@ -208,9 +208,9 @@
 }
 .nenglizhi{
     width: 100px;
-    position: relative;
+    position: absolute;
     top: 0;
-    bottom: 185px;
+    bottom: 85;
     left: 0;
     right: 750px;
     margin: auto;
